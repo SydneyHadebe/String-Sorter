@@ -1,0 +1,13 @@
+C:\Users\sydney.hadebe\source\repos\ConwayGameOfLife\ConwayGameOfLife\bin\Debug\netcoreapp3.1\ConwayGameOfLife.exe
+C:\Users\sydney.hadebe\source\repos\ConwayGameOfLife\ConwayGameOfLife\bin\Debug\netcoreapp3.1\ConwayGameOfLife.deps.json
+C:\Users\sydney.hadebe\source\repos\ConwayGameOfLife\ConwayGameOfLife\bin\Debug\netcoreapp3.1\ConwayGameOfLife.runtimeconfig.json
+C:\Users\sydney.hadebe\source\repos\ConwayGameOfLife\ConwayGameOfLife\bin\Debug\netcoreapp3.1\ConwayGameOfLife.runtimeconfig.dev.json
+C:\Users\sydney.hadebe\source\repos\ConwayGameOfLife\ConwayGameOfLife\bin\Debug\netcoreapp3.1\ConwayGameOfLife.dll
+C:\Users\sydney.hadebe\source\repos\ConwayGameOfLife\ConwayGameOfLife\bin\Debug\netcoreapp3.1\ConwayGameOfLife.pdb
+C:\Users\sydney.hadebe\source\repos\ConwayGameOfLife\ConwayGameOfLife\obj\Debug\netcoreapp3.1\ConwayGameOfLife.csprojAssemblyReference.cache
+C:\Users\sydney.hadebe\source\repos\ConwayGameOfLife\ConwayGameOfLife\obj\Debug\netcoreapp3.1\ConwayGameOfLife.AssemblyInfoInputs.cache
+C:\Users\sydney.hadebe\source\repos\ConwayGameOfLife\ConwayGameOfLife\obj\Debug\netcoreapp3.1\ConwayGameOfLife.AssemblyInfo.cs
+C:\Users\sydney.hadebe\source\repos\ConwayGameOfLife\ConwayGameOfLife\obj\Debug\netcoreapp3.1\ConwayGameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\sydney.hadebe\source\repos\ConwayGameOfLife\ConwayGameOfLife\obj\Debug\netcoreapp3.1\ConwayGameOfLife.dll
+C:\Users\sydney.hadebe\source\repos\ConwayGameOfLife\ConwayGameOfLife\obj\Debug\netcoreapp3.1\ConwayGameOfLife.pdb
+C:\Users\sydney.hadebe\source\repos\ConwayGameOfLife\ConwayGameOfLife\obj\Debug\netcoreapp3.1\ConwayGameOfLife.genruntimeconfig.cache
